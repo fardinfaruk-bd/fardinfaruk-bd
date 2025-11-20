@@ -1,5 +1,5 @@
 <h1 align="Left">Hi 👋, I'm MD. Fardin Faruk</h1>
-<h3 align="left">🔬 Deep Learning and Generative AI Expert 💡 Passionate about building innovative AI models and exploring the intersection of creativity and technology.</h3>
+<h3 align="left">🔬 Deep Learning and Generative AI Expert </h3>
 
 <p align="left"> <a href="https://www.facebook.com/photo/?fbid=861365241899319&set=a.116414813061036" alt="fardinfaruk-bd" /></a> </p>
 
