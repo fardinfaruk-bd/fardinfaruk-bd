@@ -1,5 +1,5 @@
 #👋 Hi there! 
-I'm Md Fardin Faruk
+##I'm Md Fardin Faruk
 ##🔬 Deep Learning and Generative AI Expert
 ##💡 Passionate about building innovative AI models and exploring the intersection of creativity and technology.
 ##🌐 Currently focusing on:
