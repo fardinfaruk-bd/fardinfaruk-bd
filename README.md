@@ -1,4 +1,4 @@
-👋 Hi there! 
+# 👋 Hi there! 
 <p>I'm Md Fardin Faruk<P/>
 🔬 Deep Learning and Generative AI Expert
 💡 Passionate about building innovative AI models and exploring the intersection of creativity and technology.
@@ -12,34 +12,32 @@
 
 - AI for Art, Music, and other Creative fields
 
-##🔭 Current Projects:
+## 🔭 Current Projects:
 
 - Training generative models for realistic image synthesis
 
--Fine-tuning pre-trained models for specific AI-driven applications
+- Fine-tuning pre-trained models for specific AI-driven applications
 
--Research on AI-generated art and its impact on creative industries
+- Research on AI-generated art and its impact on creative industries
 
-##🔍 What I love working on:
+## 🔍 What I love working on:
 
--Developing cutting-edge generative AI models
+- Developing cutting-edge generative AI models
 
--Exploring unsupervised and self-supervised learning techniques
+- Exploring unsupervised and self-supervised learning techniques
 
--Implementing innovative deep learning solutions for practical applications
+- Implementing innovative deep learning solutions for practical applications
 
-##📚 Tech Stack:
+## 📚 Tech Stack:
 
--Python, TensorFlow, PyTorch
+- Python, TensorFlow, PyTorch
 
--GANs, VAEs, Transformers, BERT, GPT
+- GANs, VAEs, Transformers, GPT
 
--OpenCV, NLTK, SpaCy
+## 💬 Feel free to connect with me if you want to talk about:
 
-##💬 Feel free to connect with me if you want to talk about:
+- Deep Learning and AI research
 
--Deep Learning and AI research
+- AI-driven creativity (art, music, etc.)
 
--AI-driven creativity (art, music, etc.)
-
--Collaborative AI projects
+- Collaborative AI projects
