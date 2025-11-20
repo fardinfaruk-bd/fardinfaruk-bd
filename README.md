@@ -2,7 +2,7 @@
 <h3 align="left">🔬 Deep Learning and Generative AI Expert </h3>
 
 <p align="left"> <a href="https://www.facebook.com/photo/?fbid=861365241899319&set=a.116414813061036" alt="fardinfaruk-bd" /></a> </p>
-<img src="[image.jpg](https://www.facebook.com/photo/?fbid=861365241899319&set=a.116414813061036)" alt="Photo">
+<img src="[image.jpg](https://scontent.fcgp40-1.fna.fbcdn.net/v/t39.30808-6/477715545_1397059184996586_7514802990476965374_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=pbh8Iyxe78wQ7kNvwGxs_aj&_nc_oc=Adnq8jSZZLMio4ngi-xzu8d_bTXu6oBd2TnmmmV0A0PupANuLBfjJqycfmNXKZvlwOk&_nc_zt=23&_nc_ht=scontent.fcgp40-1.fna&_nc_gid=9DjAYJWUuWt7pto5q0XoYg&oh=00_AfgN7sFEfDPnl_kYfgqpiEzsCRyc0PvVrHlrf9dqk9wjrQ&oe=6924E6F66)" alt="Photo">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
