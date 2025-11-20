@@ -1,22 +1,21 @@
-<h1 align="Left">Hi 👋, I'm MD. Fardin Faruk</h1>
-<h3 align="left">🔬 Deep Learning and Generative AI Expert </h3>
+![](https://scontent.fcgp40-1.fna.fbcdn.net/v/t39.30808-6/477715545_1397059184996586_7514802990476965374_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=pbh8Iyxe78wQ7kNvwGxs_aj&_nc_oc=Adnq8jSZZLMio4ngi-xzu8d_bTXu6oBd2TnmmmV0A0PupANuLBfjJqycfmNXKZvlwOk&_nc_zt=23&_nc_ht=scontent.fcgp40-1.fna&_nc_gid=9DjAYJWUuWt7pto5q0XoYg&oh=00_AfgN7sFEfDPnl_kYfgqpiEzsCRyc0PvVrHlrf9dqk9wjrQ&oe=6924E6F6)
 
-<p align="left"> <a href="https://www.facebook.com/photo/?fbid=861365241899319&set=a.116414813061036" alt="fardinfaruk-bd" /></a> </p>
-<img src="[image.jpg](https://scontent.fcgp40-1.fna.fbcdn.net/v/t39.30808-6/477715545_1397059184996586_7514802990476965374_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=pbh8Iyxe78wQ7kNvwGxs_aj&_nc_oc=Adnq8jSZZLMio4ngi-xzu8d_bTXu6oBd2TnmmmV0A0PupANuLBfjJqycfmNXKZvlwOk&_nc_zt=23&_nc_ht=scontent.fcgp40-1.fna&_nc_gid=9DjAYJWUuWt7pto5q0XoYg&oh=00_AfgN7sFEfDPnl_kYfgqpiEzsCRyc0PvVrHlrf9dqk9wjrQ&oe=6924E6F66)" alt="Photo">
+### Hi there 👋, I'm Fardin Faruk 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+Hi, I'm Fardin Faruk. I'm a student of Diploma in Engineering currently in 8th Semester.
+I'm deeply passionate about Artificial Intelligence(AI), Machine Learning(ML) and Deep Learning.
+I enjoy exploring how AI system works ,building models and learning modern Ai techniques that can solve real-Time Problems. I'm continuously improving my skills and looking forwarding to creating impactful projects in the field of AL & ML.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinfaruk-bd&show_icons=true&locale=en&layout=compact" alt="fardinfaruk-bd" /></p>
+Skills: Python/ Pytorch/ TensorFlow/Keras / JAVA/ HTML/ CSS
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardinfaruk-bd&show_icons=true&locale=en" alt="fardinfaruk-bd" /></p>
+- 🌱 I’m currently learning Deep learning and Generative AI  
+- 💬 Ask me about AI, ML, Deep learning 
+- 😄 Pronouns: He/him 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinfaruk-bd&" alt="fardinfaruk-bd" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/fardin.faruk.tofu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fardin.faruk.tofu7" height="30" width="40" /></a>
-<a href="https://instagram.com/_fardin_zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_fardin_zz" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fardinfaruk-bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/fardin.faruk.tofu7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_fardin_zz/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinfaruk-bd)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fardinfaruk-bd&show_icons=true)  
+
