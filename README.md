@@ -1,19 +1,20 @@
-#👋 Hi there! I'm Md Fardin Faruk
-🔬 Deep Learning and Generative AI Expert
-💡 Passionate about building innovative AI models and exploring the intersection of creativity and technology.
+#👋 Hi there! 
+I'm Md Fardin Faruk
+##🔬 Deep Learning and Generative AI Expert
+##💡 Passionate about building innovative AI models and exploring the intersection of creativity and technology.
 ##🌐 Currently focusing on:
 
--Deep Learning architectures (CNNs, RNNs, GANs, Transformers)
+- Deep Learning architectures (CNNs, RNNs, GANs, Transformers)
 
--Generative Models (GANs, VAEs, Diffusion Models)
+- Generative Models (GANs, VAEs, Diffusion Models)
 
--Reinforcement Learning and NLP
+- Reinforcement Learning and NLP
 
--AI for Art, Music, and other Creative fields
+- AI for Art, Music, and other Creative fields
 
 ##🔭 Current Projects:
 
--Training generative models for realistic image synthesis
+- Training generative models for realistic image synthesis
 
 -Fine-tuning pre-trained models for specific AI-driven applications
 
