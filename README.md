@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD. Fardin Faruk</h1>
 <h3 align="center">🔬 Deep Learning and Generative AI Expert 💡 Passionate about building innovative AI models and exploring the intersection of creativity and technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fardinfaruk-bd&label=Profile%20views&color=0e75b6&style=flat" alt="fardinfaruk-bd" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fardinfaruk-bd" alt="fardinfaruk-bd" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
