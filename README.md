@@ -15,10 +15,16 @@ I’m passionate about creating clean, user-friendly interfaces and developing e
 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <code><img height="50" src="https://i.ibb.co.com/BHbz3mmB/nextjs7685-logowik-com-Photoroom.png"> </code>
+  <code><img height="50" src="https://i.ibb.co.com/BVmfr1BW/react-icon-on-white-square-button-free-png-Photoroom.png"></code>
+  <code> <img height="50" src="https://i.ibb.co.com/sJVzdwqk/download-Photoroom.png"> </code>
+  <code> <img height="50" src="https://i.ibb.co.com/gMV2yrVy/download-2-Photoroom.png"> </code>
+  <code> <img height="50" src="https://i.ibb.co.com/gbjtVV6X/download-3-Photoroom.png"> </code>
+  <code> <img height="50" src="https://i.ibb.co.com/k2b85MLN/download-4-Photoroom.png"> </code>
+  
 
 # 🌐 Social Accounts
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40 '>](https://github.com/fardinfaruk-bd) <br>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/fardin.faruk.tofu7)  <br>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_fardin_zz/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40 '>](https://github.com/fardinfaruk-bd)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/fardin.faruk.tofu7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_fardin_zz/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinfaruk-bd)](https://github.com/anuraghazra/github-readme-stats)
 
