@@ -15,12 +15,12 @@ I’m passionate about creating clean, user-friendly interfaces and developing e
 
 
 # 💻 Tech Stack:
-  <code><img height="500" src="https://i.ibb.co.com/BHbz3mmB/nextjs7685-logowik-com-Photoroom.png"> </code>
-  <code><img height="500" src="https://i.ibb.co.com/BVmfr1BW/react-icon-on-white-square-button-free-png-Photoroom.png"></code>
-  <code> <img height="500" src="https://i.ibb.co.com/sJVzdwqk/download-Photoroom.png"> </code>
-  <code> <img height="500" src="https://i.ibb.co.com/gMV2yrVy/download-2-Photoroom.png"> </code>
-  <code> <img height="500" src="https://i.ibb.co.com/gbjtVV6X/download-3-Photoroom.png"> </code>
-  <code> <img height="500" src="https://i.ibb.co.com/k2b85MLN/download-4-Photoroom.png"> </code>
+  <img height="500" src="https://i.ibb.co.com/BHbz3mmB/nextjs7685-logowik-com-Photoroom.png"> </code>
+  <img height="500" src="https://i.ibb.co.com/BVmfr1BW/react-icon-on-white-square-button-free-png-Photoroom.png">
+  <img height="500" src="https://i.ibb.co.com/sJVzdwqk/download-Photoroom.png">
+  <img height="500" src="https://i.ibb.co.com/gMV2yrVy/download-2-Photoroom.png">
+  <img height="500" src="https://i.ibb.co.com/gbjtVV6X/download-3-Photoroom.png">
+  <img height="500" src="https://i.ibb.co.com/k2b85MLN/download-4-Photoroom.png">
   
 
 # 🌐 Social Accounts
