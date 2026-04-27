@@ -8,14 +8,17 @@ Hi, I'm Fardin Faruk. I'm a student of Diploma in Engineering currently in 8th S
 I'm deeply passionate about Artificial Intelligence(AI), Machine Learning(ML) and Deep Learning.
 I enjoy exploring how AI system works ,building models and learning modern Ai techniques that can solve real-Time Problems. I'm continuously improving my skills and looking forwarding to creating impactful projects in the field of AL & ML.
 
-Skills: Python/ Pytorch/ TensorFlow/Keras / JAVA/ HTML/ CSS
+- 🌱 I’m currently learning Next Js , Better Auth and Mongo DB
+- 😐 I feel Crazy About Mongo DB, It is little Bit complicated. I think, I overcame it by practicing.
+- 😄 Pronouns: He/him
+- 💬 Ask me about Web Devlopment 
 
-- 🌱 I’m currently learning Deep learning and Generative AI  
-- 💬 Ask me about AI, ML, Deep learning 
-- 😄 Pronouns: He/him 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fardinfaruk-bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/fardin.faruk.tofu7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_fardin_zz/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40 '>](https://github.com/fardinfaruk-bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/fardin.faruk.tofu7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_fardin_zz/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinfaruk-bd)](https://github.com/anuraghazra/github-readme-stats)
 
